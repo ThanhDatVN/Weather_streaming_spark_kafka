@@ -1,0 +1,14 @@
+datetime,name,country,latitude,longitude,temp_c,wind_mph,humidity,precip_mm,condition
+2024-08-29T00:00:00.000+07:00,Hanoi,Vietnam,21.0333,105.85,28.2,5.4,84.0,1.78,Patchy rain possible
+2024-10-21T13:00:00.000+07:00,Hanoi,Vietnam,21.0333,105.85,26.3,3.1,78.0,0.6,Light rain shower
+2024-07-17T12:00:00.000+07:00,Hanoi,Vietnam,21.0333,105.85,32.5,6.5,62.0,0.8,Light rain shower
+2024-10-09T04:00:00.000+07:00,Hanoi,Vietnam,21.0333,105.85,25.5,1.8,71.0,0.0,Partly cloudy
+2024-01-01T00:00:00.000+07:00,Hanoi,Vietnam,21.0333,105.85,20.7,5.8,82.0,0.0,Partly cloudy
+2024-08-29T09:00:00.000+07:00,Hanoi,Vietnam,21.0333,105.85,31.1,2.5,72.0,0.0,Partly cloudy
+2024-04-24T16:00:00.000+07:00,Hanoi,Vietnam,21.0333,105.85,29.3,9.2,72.0,0.0,Partly cloudy
+2024-04-25T06:00:00.000+07:00,Hanoi,Vietnam,21.0333,105.85,24.3,3.6,91.0,0.0,Partly cloudy
+2024-03-20T05:00:00.000+07:00,Hanoi,Vietnam,21.0333,105.85,18.5,6.5,67.0,0.0,Overcast
+2024-03-30T03:00:00.000+07:00,Hanoi,Vietnam,21.0333,105.85,22.8,7.4,92.0,0.0,Cloudy
+2024-03-30T04:00:00.000+07:00,Hanoi,Vietnam,21.0333,105.85,22.9,6.5,93.0,0.0,Cloudy
+2024-08-29T12:00:00.000+07:00,Hanoi,Vietnam,21.0333,105.85,34.5,4.5,58.0,0.0,Sunny
+2024-08-29T02:00:00.000+07:00,Hanoi,Vietnam,21.0333,105.85,27.8,4.5,85.0,0.0,Clear
